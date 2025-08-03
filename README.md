@@ -1,10 +1,10 @@
-# 🏄‍♂️ Guizaru
+# <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Guizaru
 
 **`Aspiring Software Artisan (Student/Developer/Game Enthusiast)`**
 
 I'm a Brazilian computer science student at UFABC, passionate about building software and exploring game development. I'm currently focused on object-oriented programming with Java, honing my skills through personal projects and academic work. As I grow as a developer, I’m preparing to dive into powerful frameworks like Spring Boot, JPA, and Hibernate to bring more structure, scalability, and depth to my future applications.
 
-Every project I build is a step forward — from writing clean, efficient code to solving real-world problems through logic and creativity :).
+Every project I build is a step forward — from writing clean, efficient code to solving real-world problems through logic and creativity :) .
 
 ---
 
