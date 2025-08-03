@@ -1,4 +1,4 @@
-# <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Guizaru
+# <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://i.redd.it/i-made-pixel-art-of-all-the-swans-albums-v0-8cybvvv6wd5f1.png?width=1200&format=png&auto=webp&s=60230aa57b58fbe3a1aa47934692c8750d484d83"> Guizaru
 
 **`Aspiring Software Artisan (Student/Developer/Game Enthusiast)`**
 
