@@ -22,7 +22,7 @@ Every project I build is a step forward — from writing clean, efficient code t
 
 #
 <details>
- <summary><h3>👨‍💻 Guilherme's Coding Journey</h3></summary>
+ <summary><h3> <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.clipartmax.com/png/middle/480-4807536_image-jevil-deltarune-pixel-art.png" > Guilherme's Coding Journey</h3></summary>
    I began my coding journey as a curious computer science student at UFABC, eager to explore every corner of this vast world — from writing my first lines of Java, to diving into the fundamentals of algorithms, systems, and software design. Early on, I felt drawn to game development, fascinated by the idea of creating interactive experiences from scratch. But as I grew more confident with object-oriented programming, I became deeply focused on mastering Java and preparing myself for the world of professional software development. That focus has shaped my current path: learning robust frameworks like Spring Boot, JPA, and Hibernate — tools I believe will empower me to build scalable, meaningful applications. Still, there’s always been a bigger dream sitting quietly in the background: to bring a complete product to life. Something I can call mine from end to end. Right now, I’m laying the foundation. Every project, every Git commit, every lesson learned brings me one step closer. I’m not rushing — I’m building with intention. Because when the time comes, I want to be ready not just to code, but to create something lasting.
 
 [Linkedin]: https://www.linkedin.com/in/guilherme-ferreira-guizaru
