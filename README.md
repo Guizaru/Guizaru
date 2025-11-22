@@ -1,4 +1,4 @@
-# <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://i.redd.it/h9w9d1i28baf1.gif"> Welcome to my profile!
+# <img align="left" alt="Tenma" width="30px" style="padding-right:10px;" src="https://i.redd.it/h9w9d1i28baf1.gif"> Welcome to my profile! <img align="right"  width="30px" style="padding-right:10px;" src="https://i.redd.it/h9w9d1i28baf1.gif">
 
 **`Aspiring Software Artisan (Student/Developer/Game Enthusiast)`**
 
