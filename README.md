@@ -1,4 +1,4 @@
-# <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://static.wikia.nocookie.net/deltarune/images/b/bd/Jevil_battle_static.png/revision/latest/thumbnail/width/360/height/450?cb=20220216012459"> Welcome to my profile!
+# <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://i.redd.it/h9w9d1i28baf1.gif"> Welcome to my profile!
 
 **`Aspiring Software Artisan (Student/Developer/Game Enthusiast)`**
 
